@@ -1,0 +1,20 @@
+[
+  {
+    "rut": "12345678-9",
+    "score": 85,
+    "risk": "LOW",
+    "delta": 5
+  },
+  {
+    "rut": "99999999-9",
+    "score": 40,
+    "risk": "HIGH",
+    "delta": -20
+  },
+  {
+    "rut": "11111111-1",
+    "score": 60,
+    "risk": "MEDIUM",
+    "delta": 0
+  }
+]
