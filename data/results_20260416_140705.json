@@ -1,0 +1,52 @@
+{
+  "last_run": "2026-04-16 14:07",
+  "status": "success",
+  "providers": [
+    {
+      "tin": "96967960-4",
+      "nombre": "Grupo Arcano S.A. En Liquidacion",
+      "score": 80,
+      "risk": "BAJO",
+      "analysis": "Aunque no hay sanciones, PEP ni medios adversos, la indicación \"En Liquidacion\" y la existencia de un caso legal elevan el riesgo operacional y de contrapartida: mayor probabilidad de insolvencia, transferencias no autorizadas y cambios de control. Se recomienda diligencia reforzada sobre el liquidador, estados financieros recientes y la naturaleza del proceso judicial; supervisión periódica hasta cierre de liquidación.",
+      "factors": {
+        "factors": {
+          "has_sanctions": false,
+          "has_pep": false,
+          "has_adverse_media": false,
+          "has_pep_related": false,
+          "legal_cases_count": 1,
+          "has_risky_activity": false
+        },
+        "deductions": {
+          "watchlist": 0,
+          "legal_cases": -10,
+          "activities": 0
+        },
+        "score_from_rules": 90
+      }
+    },
+    {
+      "tin": "78451050-6",
+      "nombre": "United Sistema De Tuberias Spa",
+      "score": 52,
+      "risk": "MEDIO",
+      "analysis": "El alto número de procesos legales (25) incrementa significativamente el riesgo operativo y reputacional, sugiriendo problemas recurrentes (contractuales, regulatorios o litigiosos). La ausencia de sanciones, PEP o medios adversos mitiga parcialmente la amenaza, pero se recomienda diligencia ampliada: revisar la naturaleza y estado de los casos, resultados, partes relacionadas, control interno y beneficiarios finales.",
+      "factors": {
+        "factors": {
+          "has_sanctions": false,
+          "has_pep": false,
+          "has_adverse_media": false,
+          "has_pep_related": false,
+          "legal_cases_count": 25,
+          "has_risky_activity": false
+        },
+        "deductions": {
+          "watchlist": 0,
+          "legal_cases": -30,
+          "activities": 0
+        },
+        "score_from_rules": 70
+      }
+    }
+  ]
+}
